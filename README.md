@@ -1,3 +1,2 @@
 # appdev
-app dev
-appdev by mayank
+app dev apps
