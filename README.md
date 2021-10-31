@@ -1,2 +1,3 @@
 # appdev
 app dev
+jquery
